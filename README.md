@@ -1,8 +1,8 @@
-Do procesu 3 potrzebne biblioteki perl: XML-RPC i XML-TreePP.
-Instalacja:
-gunzip -c <nazwa>.tar.gz | tar xvf -
-cd <nazwa>
-perl Makefile.PL
-make
-make test
-su -c 'make install'
+Do procesu 3 potrzebne biblioteki perl: XML-RPC i XML-TreePP.<br />
+Instalacja:<br />
+gunzip -c <nazwa>.tar.gz | tar xvf -<br />
+cd <nazwa><br />
+perl Makefile.PL<br />
+make<br />
+make test<br />
+su -c 'make install'<br />
